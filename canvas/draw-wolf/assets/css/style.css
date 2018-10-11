@@ -1,0 +1,2 @@
+*{ padding: 0; margin: 0; list-style: none; }
+#canvas{ position: absolute; left: 50%; top: 50%; border: 1px solid #000; margin:-250px 0 0 -200px; }

@@ -11,3 +11,8 @@
 - [Layout](#layout)
 - [Other](#other) 
 
+### Canvas
+
+1. [Draw Wolf](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/draw-wolf/index.html)
+
+![Draw Wolf Image](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-wolf.png)
