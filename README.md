@@ -15,4 +15,11 @@
 
 1. [Draw Wolf](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/draw-wolf/index.html)
 
-![Draw Wolf Image](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-wolf.png)
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-wolf.png" width="183px" height="200px" alt="Draw Wolf Image">
+
+
+### Layout
+
+1. [Single Page Switch](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/layout/single-page-switch/index.html)
+
+![Single Page Switch](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/layout/single-page-switch.gif)
