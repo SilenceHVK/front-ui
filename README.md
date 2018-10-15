@@ -15,6 +15,10 @@
 
 <img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-wolf.png" width="183px" height="200px" alt="Draw Wolf Image">
 
+2. [Draw Animation](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/draw-animation/index.html)
+
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-animation.gif" width="183px" height="200px" alt="Draw Animation">
+
 
 ### Layout
 
