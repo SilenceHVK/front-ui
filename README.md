@@ -19,6 +19,10 @@
 
 <img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-animation.gif" width="183px" height="200px" alt="Draw Animation">
 
+3. [Fire Works](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/fire-works/index.html)
+
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/fire-works.gif" width="183px" height="200px" alt="Fire Works">
+
 
 ### Layout
 
