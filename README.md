@@ -17,11 +17,15 @@
 
 2. [Draw Animation](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/draw-animation/index.html)
 
-<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-animation.gif" width="183px" height="200px" alt="Draw Animation">
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/draw-animation.gif" width="419px" height="183px" alt="Draw Animation">
 
 3. [Fire Works](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/fire-works/index.html)
 
-<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/fire-works.gif" width="183px" height="200px" alt="Fire Works">
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/fire-works.gif" width="419px" height="183px" alt="Fire Works">
+
+4. [Hex](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/hex/index.html)
+
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/hex.gif" width="419px" height="183px" alt="Hex">
 
 
 ### Layout
