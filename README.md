@@ -29,7 +29,7 @@
 
 5. [Storm](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/storm/index.html)
 
-<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/storm.gif" width="419px" height="183px" alt="Hex">
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/storm.gif" width="419px" height="183px" alt="Storm">
 
 
 
@@ -44,3 +44,7 @@
 1. [Emoji](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/other/emoji/index.html)
 
 ![Emoji](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/other/emoji.gif)
+
+2. [Loading](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/other/loading/index.html)
+
+![Loading](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/other/loading.gif)

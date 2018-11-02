@@ -1,0 +1,201 @@
+/*================== Basic ==================*/
+html,body{margin:0; padding: 0;}
+html {
+	height: 100%;
+	background: #3023ae;
+	background: -moz-linear-gradient(-45deg,  #3023ae 0%, #c86dd7 100%);
+	background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,#3023ae), color-stop(100%,#c86dd7));
+	background: -webkit-linear-gradient(-45deg,  #3023ae 0%,#c86dd7 100%);
+	background: -o-linear-gradient(-45deg,  #3023ae 0%,#c86dd7 100%);
+	background: -ms-linear-gradient(-45deg,  #3023ae 0%,#c86dd7 100%);
+	background: linear-gradient(135deg,  #3023ae 0%,#c86dd7 100%);
+	background-attachment: fixed;
+}
+body {
+	font-family: "Open Sans";
+	font-weight: 300;
+}
+.container {
+	background: transparent;
+	list-style: none;
+	padding: 0;
+	-moz-box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.37);
+	box-shadow:      0px 0px 4px 0px rgba(0,0,0,0.37);
+}
+.container::after{
+	content: '';
+	height: 0;
+	display: block;
+	clear: both;
+}
+.container section{
+    position: relative;
+    float: left;
+	width: 20%;
+	height: 200px;
+	line-height: 200px;
+	text-align: center;
+    justify-content:center;
+}
+.line i{
+    display: inline-block;
+    width: 5px;
+    height: 50px;
+    background-color: #fff;
+}
+/*================== 设置每个 section 的背景颜色 ==================*/
+.container section:nth-of-type(1) {
+	background-color: #1ABC9C;
+}
+.container section:nth-of-type(2) {
+	background-color: #34495E;
+}
+.container section:nth-of-type(3) {
+	background-color: #F39C12;
+}
+.container section:nth-of-type(4) {
+	background-color: #2E64FF;
+}
+.container section:nth-of-type(5) {
+	background-color: #F2276C;
+}
+.container section:nth-of-type(6) {
+	background-color: #A3CF62;
+}
+.container section:nth-of-type(7) {
+	background-color: #f7acbc;
+}
+
+/*================== demo1 样式 ==================*/
+#demo1 i{
+    animation: demo1-loading 1.2s infinite ease-in-out;
+}
+#demo1 i:nth-of-type(2){
+    animation-delay: -1.1s;
+}
+#demo1 i:nth-of-type(3){
+    animation-delay: -1.0s;
+}
+#demo1 i:nth-of-type(4){
+    animation-delay: -0.9s;
+}
+#demo1 i:nth-of-type(5){
+    animation-delay: -0.8s;
+}
+@keyframes demo1-loading{
+    0%,40%,100%{
+        transform: scaleY(0.5);
+    }
+    20%{
+        transform: scaleY(1);
+    }
+}
+
+/*================== demo2 样式 ==================*/
+#demo2 i {
+    animation: demo2-loading 1s 0.1s infinite cubic-bezier(.2, .68, .18, 1.08);
+}
+#demo2 i:nth-of-type(2) {
+   animation-delay: 0.2s
+}
+#demo2 i:nth-of-type(3) {
+    animation-delay: 0.3s
+}
+#demo2 i:nth-of-type(4) {
+    animation-delay: 0.4s
+}
+#demo2 i:nth-of-type(5) {
+    animation-delay: 0.5s
+}
+@keyframes demo2-loading{
+    0% {
+        transform: scaley(1);
+    }
+    50% {
+        transform: scaley(0.4);
+    }
+    100% {
+        transform: scaley(1);
+    }
+}
+
+/*================== demo3 样式 ==================*/
+#demo3 i {
+    animation: demo3-loading 0.77s 1.26s  infinite cubic-bezier(.2, .68, .18, 1.08);
+}
+#demo3 i:nth-of-type(2) {
+    animation-delay: 0.29s;
+    animation-duration: 0.43s;
+ }
+ #demo3 i:nth-of-type(3) {
+    animation-delay: 0.28s;
+    animation-duration: 1.01s;
+ }
+ #demo3 i:nth-of-type(4) {
+    animation-delay: 0.74s;
+    animation-duration: 0.73s;
+ }
+
+@keyframes demo3-loading {
+    0% {
+        transform: scaley(1);
+    }
+    50% {
+        transform: scaley(0.4);
+    }
+    100% {
+        transform: scaley(1);
+    }
+}
+
+/*================== demo4 样式 ==================*/
+#demo4 i {
+    animation: demo4-loading 0.9s 0s infinite cubic-bezier(.85, .25, .37, .85);
+}
+#demo4 i:nth-of-type(2),
+#demo4 i:nth-of-type(4)  {
+    animation-delay: 0.2s !important;
+}
+#demo4 i:nth-of-type(1),
+#demo4 i:nth-of-type(5)  {
+    animation-delay: 0.4s !important;
+}
+
+@keyframes demo4-loading {
+    0% {
+        transform: scaley(1);
+    }
+    50% {
+        transform: scaley(0.5);
+    }
+    100% {
+        transform: scaley(1);
+    }
+}
+
+/*================== demo5 样式 ==================*/
+
+#demo5 i {
+    transform: scaley(0.3);
+    animation: demo5-loading 0.9s 0.25s infinite cubic-bezier(.11, .49, .38, .78);
+}
+#demo5 i:nth-of-type(2),
+#demo5 i:nth-of-type(4){
+    animation-delay: 0.45s !important;
+}
+#demo5 i:nth-of-type(1),
+#demo5 i:nth-of-type(5){
+    animation-delay: 0.65s !important;
+}
+
+@keyframes demo5-loading {
+    0% {
+        transform: scaley(0.3);
+    }
+    50% {
+        transform: scaley(1);
+    }
+    100% {
+        transform: scaley(0.3);
+    }
+}
