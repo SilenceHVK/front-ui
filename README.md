@@ -47,4 +47,4 @@
 
 2. [Loading](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/other/loading/index.html)
 
-![Loading](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/other/loading.gif)
+![Loading](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/other/loading.gif)  
