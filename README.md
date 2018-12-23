@@ -33,9 +33,7 @@
 
 6. [Love](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/love/index.html)
 
-<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/love.gif" width="419px" height="183px" alt="Love">
-
-
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/love.gif" width="419px" height="230px" alt="Love">
 
 ### Layout
 
