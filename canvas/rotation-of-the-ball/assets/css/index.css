@@ -1,0 +1,27 @@
+body {
+	background-color:#000000;
+	color:#555555;
+}
+h4 {
+	font-family:sans-serif;
+	color:#555555;
+	font-size:16px;
+}
+h3 {
+	font-family:sans-serif;
+	color:#555555;
+}
+p {
+	font-family:sans-serif;
+	color:#888888;
+	font-size:14px;
+}
+a {
+	font-family:sans-serif;
+	color:#d15423;
+	text-decoration:none;
+}
+.slider {
+	width:500px;
+	background:rgba(0,90,50,0.7);
+}

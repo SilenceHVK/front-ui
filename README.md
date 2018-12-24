@@ -35,6 +35,10 @@
 
 <img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/love.gif" width="419px" height="230px" alt="Love">
 
+7. [Rotation of the ball](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/rotation-of-the-ball/index.html)
+
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/rotation-of-the-ball.gif" width="419px" height="230px" alt="Love">
+
 ### Layout
 
 1. [Single Page Switch](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/layout/single-page-switch/index.html)
