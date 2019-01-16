@@ -8,9 +8,10 @@ body {
 
 #canvas {
     position: absolute;
-    left: 50%;
-    margin-left: -100px;
-    top: 50%;
-    margin-top: -100px;
-    border:solid 1px red;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    margin: auto;
+    border: solid 1px red;
 }
