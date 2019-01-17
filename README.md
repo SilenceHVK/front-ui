@@ -7,7 +7,7 @@
 - [Canvas](#canvas)
 - [Components](#components)
 - [Layout](#layout)
-- [Other](#other) 
+- [Other](#other)
 
 ### Canvas
 
@@ -37,7 +37,11 @@
 
 7. [Rotation of the ball](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/rotation-of-the-ball/index.html)
 
-<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/rotation-of-the-ball.gif" width="419px" height="230px" alt="Love">
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/rotation-of-the-ball.gif" width="419px" height="230px" alt="Rotation of the ball">
+
+8. [The clock](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/the-clock/index.html)
+
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/the-clock.gif" width="419px" height="230px" alt="The clock">
 
 ### Layout
 
@@ -53,4 +57,4 @@
 
 2. [Loading](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/other/loading/index.html)
 
-![Loading](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/other/loading.gif)  
+![Loading](https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/other/loading.gif)
