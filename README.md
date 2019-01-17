@@ -41,7 +41,7 @@
 
 8. [The clock](https://htmlpreview.github.io/?https://github.com/SilenceHVK/FrontUI/blob/master/canvas/the-clock/index.html)
 
-<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/the-clock.gif" width="419px" height="230px" alt="The clock">
+<img src="https://github.com/SilenceHVK/front-ui/raw/master/assets/images/rendering/canvas/the-clock.gif" width="419px" height="419px" alt="The clock">
 
 ### Layout
 
